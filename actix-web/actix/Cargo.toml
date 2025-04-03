@@ -1,0 +1,10 @@
+[package]
+name = "actix"
+version = "0.1.0"
+edition = "2015"
+
+[lib]
+name = "actix_http"
+path = "src/lib.rs"
+
+[dependencies]
